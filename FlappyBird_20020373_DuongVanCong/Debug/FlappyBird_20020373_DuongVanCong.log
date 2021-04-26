@@ -1,0 +1,5 @@
+﻿  PlayerObject.cpp
+F:\gamesSDL\FlappyBird_20020373_DuongVanCong\FlappyBird_20020373_DuongVanCong\CommonFunc.h(49,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+F:\gamesSDL\FlappyBird_20020373_DuongVanCong\FlappyBird_20020373_DuongVanCong\CommonFunc.h(61,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+F:\gamesSDL\FlappyBird_20020373_DuongVanCong\FlappyBird_20020373_DuongVanCong\PlayerObject.cpp(57,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  FlappyBird_20020373_DuongVanCong.vcxproj -> F:\gamesSDL\FlappyBird_20020373_DuongVanCong\Debug\FlappyBird_20020373_DuongVanCong.exe
